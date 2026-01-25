@@ -46,10 +46,23 @@ data-heavy products in healthcare and finance (factoring, reporting, bank data, 
 
 ### Selected projects
 
-- 🔹 **[grails-backend-sample](https://github.com/Deepaktogarla/grails-backend-sample)** – small Grails-style backend showing how I structure domains, services and controllers  
-- 🔹 **[java-reporting-playground](https://github.com/Deepaktogarla/java-reporting-playground)** – Java + SQL + JasperReports playground with synthetic demo reports  
-- 🔹 **[hnt-recruiter-offline-desktop](https://github.com/Deepaktogarla/hnt-recruiter-offline-desktop)** – Flutter desktop app (macOS/Windows) for offline candidate storage and JD matching  
-- 🔹 **[integration-demo-rest-api](https://github.com/Deepaktogarla/integration-demo-rest-api)** – demo that integrates with a public REST API and exposes a clean internal REST endpoint  
+- 🔹 **[grails-fullstack-invoices-demo](https://github.com/Deepaktogarla/grails-fullstack-invoices-demo)**  
+  Small Grails-style fullstack demo showing how I structure domains, services, controllers and simple UI around invoices.
+
+- 🔹 **[java-reporting-playground](https://github.com/Deepaktogarla/java-reporting-playground)**  
+  Playground for **Java + SQL + JasperReports**, with synthetic demo reports to mirror the kind of reporting/FG-Journal work I do in production.
+
+- 🔹 **[legacy-ui-jquery-sample](https://github.com/Deepaktogarla/legacy-ui-jquery-sample)**  
+  Static HTML + **jQuery** demo that shows how I maintain and extend legacy UIs: tables, filters, bulk actions, dialogs and progress/status flows.
+
+- 🔹 **[textdiffs-demo](https://github.com/Deepaktogarla/textdiffs-demo)**  
+  Demo version of **TextDiffs** – a fast, privacy-first text comparison tool (Flutter Web) with side-by-side/inline diff, PDF export and offline-first design.
+
+- 🔹 **[findmycity-germany-demo](https://github.com/Deepaktogarla/findmycity-germany-demo)**  
+  Demo of **FindMyCity Germany**, a Flutter app that helps expats and students compare German cities by rent (Single/Couple/Family) using an offline encrypted dataset.
+
+- 🔹 **[hnt-recruiter-offline-desktop](https://github.com/Deepaktogarla/hnt-recruiter-offline-desktop)**  
+  Flutter desktop app (macOS/Windows) for **offline candidate storage** and basic job-description matching, built as an internal HNT Digital Studio tool.
 
 ---
 
