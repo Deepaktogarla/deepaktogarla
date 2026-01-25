@@ -15,6 +15,15 @@ data-heavy products in healthcare and finance (factoring, reporting, bank data, 
 
 ---
 
+### Live products
+
+- 🧾 **TextDiffs** – browser-based text and document comparison tool for writers, devs and reviewers  
+  👉 [www.textdiffs.com](https://www.textdiffs.com)
+
+*(FindMyCity Germany will be added here once it’s live on the Play Store.)*
+
+---
+
 ### What I do
 
 - Design and deliver backend features in **Java / Groovy-Grails**
@@ -39,8 +48,8 @@ data-heavy products in healthcare and finance (factoring, reporting, bank data, 
 
 - 🔹 **[grails-backend-sample](https://github.com/Deepaktogarla/grails-backend-sample)** – small Grails-style backend showing how I structure domains, services and controllers  
 - 🔹 **[java-reporting-playground](https://github.com/Deepaktogarla/java-reporting-playground)** – Java + SQL + JasperReports playground with synthetic demo reports  
+- 🔹 **[hnt-recruiter-offline-desktop](https://github.com/Deepaktogarla/hnt-recruiter-offline-desktop)** – Flutter desktop app (macOS/Windows) for offline candidate storage and JD matching  
 - 🔹 **[integration-demo-rest-api](https://github.com/Deepaktogarla/integration-demo-rest-api)** – demo that integrates with a public REST API and exposes a clean internal REST endpoint  
-- 🔹 **[findmycity-germany-demo](https://github.com/Deepaktogarla/findmycity-germany-demo)** – demo version of my Flutter app to compare German cities using sample data  
 
 ---
 
