@@ -20,7 +20,8 @@ data-heavy products in healthcare and finance (factoring, reporting, bank data, 
 - 🧾 **TextDiffs** – browser-based text and document comparison tool for writers, devs and reviewers  
   👉 [www.textdiffs.com](https://www.textdiffs.com)
 
-*(FindMyCity Germany will be added here once it’s live on the Play Store.)*
+- 🏙️ **FindMyCity Germany** – Android app that helps expats, students and professionals compare German cities by rent (Single / Couple / Family), fully offline  
+  👉 [FindMyCity Germany on Google Play](https://play.google.com/store/apps/details?id=findmycity.com.findmycity_germany)
 
 ---
 
@@ -47,7 +48,7 @@ data-heavy products in healthcare and finance (factoring, reporting, bank data, 
 ### Selected projects
 
 - 🔹 **[grails-fullstack-invoices-demo](https://github.com/Deepaktogarla/grails-fullstack-invoices-demo)**  
-  Small Grails-style fullstack demo showing how I structure domains, services, controllers and simple UI around invoices.
+  Small Grails-style fullstack demo showing how I structure domains, services, controllers and a simple invoices UI.
 
 - 🔹 **[java-reporting-playground](https://github.com/Deepaktogarla/java-reporting-playground)**  
   Playground for **Java + SQL + JasperReports**, with synthetic demo reports to mirror the kind of reporting/FG-Journal work I do in production.
@@ -59,7 +60,7 @@ data-heavy products in healthcare and finance (factoring, reporting, bank data, 
   Demo version of **TextDiffs** – a fast, privacy-first text comparison tool (Flutter Web) with side-by-side/inline diff, PDF export and offline-first design.
 
 - 🔹 **[findmycity-germany-demo](https://github.com/Deepaktogarla/findmycity-germany-demo)**  
-  Demo of **FindMyCity Germany**, a Flutter app that helps expats and students compare German cities by rent (Single/Couple/Family) using an offline encrypted dataset.
+  Demo of **FindMyCity Germany**, using synthetic/sample city data to mirror the structure of the **live Play Store app** while keeping the production dataset private.
 
 - 🔹 **[hnt-recruiter-offline-desktop](https://github.com/Deepaktogarla/hnt-recruiter-offline-desktop)**  
   Flutter desktop app (macOS/Windows) for **offline candidate storage** and basic job-description matching, built as an internal HNT Digital Studio tool.
